@@ -1,7 +1,7 @@
 #include "mywidget.h"
 
 #include <QApplication>
-//QApplication -- QT应用程序类
+//QApplication -- QT应用程序类   
 //包含头文件时没有.h
 //头文件和类名一样
 //前两个字母大写
